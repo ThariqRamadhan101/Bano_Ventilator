@@ -1,7 +1,8 @@
 # Bano_Ventilator
+## Description
 This project is still in progress
 
-Contributor :
+## Contributor :
 - Kang Aso
 - Iqbal Fawwaz
 - Fadhel Hariz Dzulfikar
