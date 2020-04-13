@@ -3,7 +3,7 @@
 This project is still in progress
 
 ## Contributor :
-- Kang Aso
+- Anugrah Nurrewa
 - Iqbal Fawwaz
 - Fadhel Hariz Dzulfikar
 - M. Arkan Abhinawa
